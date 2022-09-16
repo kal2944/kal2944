@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kal2944&label=Profile%20views&color=0e75b6&style=flat" alt="kal2944" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kalkida01088197" target="blank"><img src="https://img.shields.io/twitter/follow/kalkida01088197?logo=twitter&style=for-the-badge" alt="kalkida01088197" /></a> </p>
+
 
 - 🌱 I’m currently learning **at Microverse**
 
